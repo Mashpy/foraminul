@@ -1,0 +1,7 @@
+0000.000 (0) Opened log file at time: Mon, 01 Sep 2014 15:14:46 +0000 on http://www.nstupharma.org
+0000.004 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.15 WP: 3.9.2 PHP: 5.5.9-1ubuntu4.3 (Linux ip-172-31-20-173 3.13.0-29-generic #53-Ubuntu SMP Wed Jun 4 21:00:20 UTC 2014 x86_64) MySQL:  Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.7M | 5M) multisite: N mcrypt: N ZipArchive::addFile: Y W3TC/ObjectCache: N
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 5632.1 Mb
+0000.009 (0) Tasks: Backup files:  (schedule: twicedaily) Backup DB: 1 (schedule: twicedaily)
+0000.011 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 
+0000.013 (0) No email will be sent - this backup set was empty.
+0000.015 (0) The backup apparently succeeded and is now complete
