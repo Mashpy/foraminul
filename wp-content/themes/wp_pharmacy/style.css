@@ -14,13 +14,17 @@ body {
 ul.nav li.dropdown:hover > ul.dropdown-menu {
     display: block;    
 }
-
+#header-left{padding-top:12px;}
 @media (min-width: 1200px) {
     .container{
         max-width: 1024px;
     }
 }
-
+.logo{float:left;}
+.nstu{float:left;}
+.pharmacy{float:left;
+font-size:24px;}
+.navbar-form {padding-top:60px;}
 .boximg{
 	width:228px;
 	height: 146px;
@@ -32,8 +36,8 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 #profile-edit-form .field_210{display:none}
 #profile-edit-form .field_180{display:none}
 
-#wpadminbar .quicklinks .menupop ul.ab-sub-secondary{display:none;}
-
+#wpadminbar .quicklinks .menupop ul.ab-sub-secondary  {display:none;}
+#main{display:none;}
 .dropdown-submenu{position:relative;}
 .dropdown-submenu>.dropdown-menu{top:-5px;left:100%;-webkit-border-radius:0 6px 6px 6px;-moz-border-radius:0 6px 6px 6px;border-radius:0 6px 6px 6px;}
 .dropdown-submenu:active>.dropdown-menu, .dropdown-submenu:hover>.dropdown-menu {
@@ -75,3 +79,5 @@ display: block;
     margin-top: -11px;
 }
 br{margin-bottom:0px}
+.navbar-form {
+margin-top:58px;}

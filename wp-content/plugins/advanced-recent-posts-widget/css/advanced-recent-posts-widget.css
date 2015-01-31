@@ -28,9 +28,12 @@ Version 3.0.0
 	margin: 3px 0;
 	padding: 3px 0;
 	border-bottom:1px solid #ccc;
+  background-color:#7E7575;
+  color:white;
 }
 .advanced_recent_posts_widget .more-link{
 	display:inline;
+  color:white;
 }
 .advanced_recent_posts_widget .post-entry{ 
    padding:0 0 5px 0;

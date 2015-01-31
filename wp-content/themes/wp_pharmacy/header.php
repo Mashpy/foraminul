@@ -28,9 +28,19 @@
 <!--Rone fix the size and padding of header image-->					
 				<img class="header-image" src="<?php header_image(); ?>" width="20px" height="20px" alt="">
 				</a>
+ 
 				<?php endif; ?>
-				
-<nav class="navbar navbar-default" role="navigation">
+  <div id="header-left">
+				<div class= "logo"><img style="padding-right:4px" src="<?php echo get_template_directory_uri();?>/images/nstu.png"  /></div>
+     
+    <div class="nstu"<span style="color:#1818A1;font-wiight:bold;padding-left: 14px;font-size: 29px;">NSTU</span><br>
+  <span style="font-size:10px;">Noakhali Science & Technology<br> University</span></div>
+ 
+  <div class="pharmacy"><span style="height:20px;padding-left:10px;height:40px;" >| </span><span style="font-size:24px;">Department of pharmacy</span> <br><span style="padding-left:21px;">Faculty Science</span></div>
+ 
+                                                                                                                            </div>
+  
+<nav class="" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div style="padding-top:13px" class="navbar-header">
@@ -41,7 +51,7 @@
         <span class="icon-bar"></span>
       </button>
       
-<a  href="http://www.nstu.edu.bd" rel="home"><img style="width:25px;height:25px;padding-right:4px" src="<?php echo get_template_directory_uri();?>/images/nstu.png"  />Noakhali Science and Technology University</a>
+
     </div>
  <form class="navbar-form navbar-right" role="search" action="<?php esc_url( site_url() ) ?>" method="get">
     <div class="form-group">
@@ -124,5 +134,5 @@
         ?>
     </div>
 </nav>
-
+<img style="padding-right:4px" src="<?php echo get_template_directory_uri();?>/images/banner.jpg"  />
 <div class="clearfix">

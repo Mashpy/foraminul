@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'nstupharmaorg');
+define('DB_NAME', 'nstupharma');
 
 /** MySQL database username */
-define('DB_USER', 'nstupharmaro');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '76e8bf3a-f432-4317-8537-e4eac145bd18');
+define('DB_PASSWORD', '123456');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
